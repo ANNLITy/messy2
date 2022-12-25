@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Сумма трат за месяц составила " + a + " рублей");
     }
 
-    public static void task2() {
+     public static void task2() {
         int[] arr = generateRandomArray();
         int max = 100_000;
         int min = 200_000;
